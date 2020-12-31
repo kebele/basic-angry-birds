@@ -1,0 +1,10 @@
+sketch.js ana dosya
+bize bir kutu ve bir kuş lazım
+box.js ve bird.js
+box.js ile Box constructor nesnesi oluşturduk içine show functionu koyduk.
+skecth.js de ground hazırladık, ground da bir nevi box
+kutu rect ile kuş circle ile
+fizik işleri için Matter.js cdn ini ekledik, ayrıca p5.js cdn lerini de ekledik
+world ve engine nesnelerinide sketch e koyacağız
+ayrıca ground box ve bird body dir matter.js de
+böyle olduğundan bird ve box js lerinde gerekli düzenemeyi yapacağız, artık bun nesneler için x ve y koordinatları olmayacak buun yerine body ye ait koordinatlar olacak
